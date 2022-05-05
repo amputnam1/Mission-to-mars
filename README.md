@@ -11,6 +11,8 @@ The purpose of this assignment was to help Robin's web app and achive her goals 
 - Deliverable 2 is updating the web app with Mars hemisphere images and titles.
 
 (Some of the images are examples of the output in the browser)
+
+
 <img width="494" alt="Screen Shot 2022-05-05 at 5 01 09 PM" src="https://user-images.githubusercontent.com/93094173/167024931-6e016881-d4d5-418e-bf63-8b1431a7606a.png">
 
 <img width="460" alt="Screen Shot 2022-05-05 at 5 01 14 PM" src="https://user-images.githubusercontent.com/93094173/167024941-ccc7120c-780c-490d-b29f-92bd854de39d.png">
